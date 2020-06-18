@@ -1,2 +1,3 @@
-# udst-planning
-UDST-wide issues and planning
+## UDST-wide issues and planning
+
+[Open issues](../../issues)
